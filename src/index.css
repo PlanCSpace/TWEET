@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add a dark background to the body */
+body {
+  /* Changed to a very dark gray */
+  background-color: #121212;
+}
